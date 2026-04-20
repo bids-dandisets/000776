@@ -4,7 +4,26 @@
     "HEDVersion": "8.3.0",
     "Description": "Dataset of 38 worms from 'Brain-wide representations of behavior spanning multiple timescales and states in C. elegans'. Each NWB file contains the NIR bright-field images, GCaMP images, and NeuroPAL structural images, ROI locations and IDs, labeled activity traces, and behavioral information. \n",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Atanas, Adam",
+        "Kim, Jungsoo",
+        "Wang, Ziyu",
+        "Bueno, Eric",
+        "Becker, McCoy",
+        "Kang, Di",
+        "Park, Jungyeon",
+        "Kramer, Talya",
+        "Wan, Flossie",
+        "Baskoylu, Saba",
+        "Dag, Ugur",
+        "Kalogeropoulou, Elpiniki",
+        "Gomes, Matthew",
+        "Estrem, Cassi",
+        "Sprague, Daniel",
+        "Cohen, Netta",
+        "Mansinghka, Vikash",
+        "Flavell, Steve"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
